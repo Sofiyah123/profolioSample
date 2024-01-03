@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../croissant"
+	},
+	{
+		"path": "../responsive-design"
+	},
+	{
+		"path": "../portfolio"
+	},
+	{
+		"path": "../SheCode_BasicProject"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}
